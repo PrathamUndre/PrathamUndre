@@ -82,7 +82,7 @@
 
 ## 📬 Contact Me
 
-- 🔗 **LinkedIn:** [Prathamesh Undre](https://www.linkedin.com/in/prathamesh-undre-6bb057291)
+- 🔗 **LinkedIn:** [Prathamesh Undre](https://www.linkedin.com/in/prathameshundre)
 - 📧 **Email:** undreprathamesh@gmail.com
 - 💻 **GitHub:** https://github.com/your-github-username
 
