@@ -154,7 +154,7 @@
 - 🥽 Bootcamp on **Augmented and Virtual Reality Acceleration**
 - 💻 **6 Weeks Internship Completion — EYGDS**
 - 💻 **2 Months Internship Completion — Soluxction Space LLP**
-- 📱 **Application Development Using Flutter — Core2Web**
+- 📱 **Mobile Application Development in Flutter — Core2Web**
 - 🌐 **Full Stack Web Development — MERN Stack**
 
 ---
