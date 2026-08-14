@@ -148,30 +148,6 @@
 
 ---
 
-# 🎓 Education
-
-### 🎓 Bachelor of Engineering — Computer Engineering
-
-**Trinity College of Engineering & Research, Pune**
-
-**2022 – 2026**
-
-**CGPA: 7.66**
-
-Successfully completed **B.E. in Computer Engineering in 2026**.
-
----
-
-### 🎓 Master of Technology — M.Tech
-
-**Trinity College of Engineering & Research, Pune**
-
-**Currently Pursuing**
-
-Specialization: Computer/Software Engineering
-
----
-
 # 📜 Certifications
 
 - 📊 International Level Student Workshop — **Data Science using Python**
